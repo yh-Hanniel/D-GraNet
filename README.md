@@ -1,4 +1,4 @@
-# D-GraNet
+# D²GraNet
 This is the code for paper:
 > 基于动态增强双图协同学习网络的多元时间序列预测
 
